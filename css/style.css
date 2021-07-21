@@ -1,0 +1,31 @@
+.corpus, .table {
+    border:1px solid rgb(22, 20, 20);
+    border-radius:5px;
+}
+.display{
+    height:3rem;
+    border-radius:5px;
+    text-align:center;
+}
+
+.keyboard{
+    border-radius:5px;
+
+}
+
+#displayInfo, #tbl{
+    color:#ffc107;
+    font-size: xx-large;
+}
+
+body{
+    font-family:Roboto;
+}
+
+#calculate{
+    position:absolute;
+}
+b{font-weight:700;
+}
+
+
